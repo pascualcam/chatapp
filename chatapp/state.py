@@ -3,7 +3,7 @@ import reflex as rx
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='AN_API_KEY')
 
 
 
